@@ -1,5 +1,5 @@
 ## To post local PC date and Time as json topic to a MQTT server.
-Create a binary and distribute along with mqtt.json
+## Create a binary and distribute along with configuration file "mqtt.json"
 ==
  ```
  pyinstaller -F timedata.py

@@ -1,0 +1,15 @@
+{
+    "clientid":"myclient234",
+    "broker":"10.29.28.124",
+    "port":1883,
+    "user":"",
+    "password":"",
+    "keepalive":60,
+    "qos":0,
+    "retain":false,
+    "topic":"tdata",
+    "fmtDate": "%m/%d/%Y",
+    "fmtTime": "%H:%M:%S",
+    "update":3
+
+}
